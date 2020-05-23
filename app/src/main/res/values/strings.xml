@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouttubeAppSection</string>
+    <string name="play">Play</string>
+    <string name="play_a_single_video">Play a SIngle Video</string>
+    <string name="play_a_playlist">Play a PlayList</string>
+    <string name="go_to_standalone">Go to Standalone</string>
+</resources>
